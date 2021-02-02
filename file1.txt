@@ -1,1 +1,3 @@
 Text from folder 1
+
+Text from folder 2
